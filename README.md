@@ -1,2 +1,3 @@
-# rtl_models
-RTL Models
+# OHSim RTL Models
+
+In this repository you will find the electrical models implemented in Verilog.
