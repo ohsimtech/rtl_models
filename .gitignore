@@ -1,0 +1,12 @@
+
+
+# Simulation files
+*.vcd
+*.vvp
+*.gttw
+
+# Simulink cache
+*.slxc
+
+# Simulink generated folders
+*/slprj
